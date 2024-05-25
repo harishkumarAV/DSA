@@ -9,3 +9,7 @@ class HexToBinary {
     System.out.println(result);
 	}
 }
+
+
+// To specify it for 16 digits
+System.out.print(String.format("%16s",result).replace(' ','0');
