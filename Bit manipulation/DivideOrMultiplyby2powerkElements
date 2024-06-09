@@ -1,0 +1,8 @@
+int main() {
+    int val = 10;
+    int k = 1;
+    int mul = val<<k; //For multiplying with 2 power k elements
+    int div = val>>k; //For Dividing with 2 power k elements
+    cout<<mul<<endl;
+    cout<<div;
+}
