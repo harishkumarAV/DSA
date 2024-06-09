@@ -10,3 +10,9 @@ public class Main {
         }
     }
 }
+
+
+Similarly,
+For toggling the kth bit : x ^ (1<<k)
+to set the kth bit : x | (1<<k)
+to unset the kth bit : x & !(1<<k)
